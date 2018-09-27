@@ -1,1 +1,4 @@
 # latex
+
+
+For teaching purposes
